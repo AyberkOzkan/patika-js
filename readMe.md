@@ -10,3 +10,10 @@
 
 
 ![görsel2](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/javascript/javascript-temel/odev2/figures/todolist.gif)
+
+## **Kodluyoruz JavaScript Ödev - 3**
+
+--> [patika ödev 3](https://academy.patika.dev/tr/courses/javascript/odev3)
+
+
+![görsel2](https://github.com/Kodluyoruz/taskforce/raw/main/javascript/javascript-temel/odev3/figures/asiankitchen.gif)
